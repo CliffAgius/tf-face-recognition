@@ -4,6 +4,9 @@ conda_venv/
 # Rope project settings
 .ropeproject
 
+# As GitHub won't allow large files the Models Folder is being ignored
+pretrained_models/
+
 ### Vim ###
 # swap
 .sw[a-p]
